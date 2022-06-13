@@ -1,0 +1,7 @@
+.text {
+  font-weight: 900;
+  text-align: center;
+}
+.text:not(:last-child) {
+  margin-bottom: 10px;
+}
